@@ -19,12 +19,12 @@ these are skins that people claim to be howl's yet have no (confirmed) evidence 
 # Skins from the HowlWater Replays Channel
 
 # [★ howl gangsta 5x miss](https://cdn.discordapp.com/attachments/1176264621926125580/1176264858220634192/howl.osk) | [Preview](https://www.youtube.com/watch?v=GHpWsJ-XMaA)
-![image](https://b.catgirlsare.sexy/Savg9yxRmPFh.png)
+![image](https://b.catgirlsare.sexy/UNJ22W-WNkrz.png)
 
 also used in the gimu negi hr play
 
 # [§ howl take on me](https://cdn.discordapp.com/attachments/1176264621926125580/1176267802080981063/howl.osk) | [Preview](https://www.youtube.com/watch?v=TIxqM2xwAXM)
-![image](https://b.catgirlsare.sexy/UNJ22W-WNkrz.png)
+![image](https://b.catgirlsare.sexy/Savg9yxRmPFh.png)
 
 only thing that was remade is the hp bar (which is being cropped by osu thanks pepper)
 
@@ -33,7 +33,10 @@ only thing that was remade is the hp bar (which is being cropped by osu thanks p
 
 only thing that was remade is the cursortrail and the colors, had to guesstimate the cursortrail but i'm pretty sure the sliderborder is as close to perfect as i can get it
 
+# Skins from the official howl Channel
 
+# [§ HowlWater - osu! Frag Compilation](https://cdn.discordapp.com/attachments/1176264621926125580/1176267802080981063/howl.osk) | [Preview](https://youtu.be/b0fY08PSPmQ)
+![image](https://b.catgirlsare.sexy/aF1bdUXVFuLh.png)
 
 
 
