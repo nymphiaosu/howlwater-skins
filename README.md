@@ -17,7 +17,7 @@ these are skins that people claim to be howl's yet have no (confirmed) evidence 
 
 # Skins from the HowlWater Replays Channel
 
-# [★ howl gangsta 5x miss](link thinghklaswdjlkfhg) | [Preview](https://www.youtube.com/watch?v=GHpWsJ-XMaA)
+# [★ howl gangsta 5x miss](linkthinghklaswdjlkfhg) | [Preview](https://www.youtube.com/watch?v=GHpWsJ-XMaA)
 [![image](https://github.com/nymphiaosu/howlwater-skins/assets/117044049/fc663fcc-14d2-433f-b36e-0b69df570d8b)](linksdfh)
 also used in the gimu negi hr play
 
