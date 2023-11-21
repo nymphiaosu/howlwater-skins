@@ -40,7 +40,7 @@ only thing that was remade is the cursortrail and the colors, had to guesstimate
 
 # Skins from the official howl Channel
 
-# [§ HowlWater - osu! Frag Compilation](https://b.catgirlsare.sexy/yt5leigjcfK7.osk) | [Preview](https://youtu.be/b0fY08PSPmQ)
+# [§ HowlWater - osu! Frag Compilation](https://b.catgirlsare.sexy/8AwNjIc-w2qt.osk) | [Preview](https://youtu.be/b0fY08PSPmQ)
 ![image](https://b.catgirlsare.sexy/aF1bdUXVFuLh.png)
 
 no remade elements, however the skin was made based off memory + a few reddit screenshots so i wouldnt trust this 100%
