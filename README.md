@@ -3,9 +3,14 @@ highly unfinished will do when i feel like it
 
 you might notice that most of the skins here are basically repeats with little to no differences to each other, thats a howl thing dont blame me 🤷
 
-the skins listed will have 4 categories that will be represented by a specific character: 
+if there are any skins i missed feel free to add me on discord @nimfia
+
+the skins listed will have 5 categories that will be represented by a specific character: 
 ## Authentic ★: 
 this means the skin came directly from howl/affiliates
+
+## Identical ☆:
+the skins in this category have no remade elements, but were never released. usually skin mixes made by howl that we found the elements for and gathered into a skin, official but not really
 
 ## Remasters ⁂: 
 this indicates that the skin has been slightly altered to be made into high resolution via either manual remaking of each element/finding out the origins of certain elements, or by ai upscaling, the origin of the skin being remastered isnt accounted for
@@ -38,10 +43,12 @@ only thing that was remade is the cursortrail and the colors, had to guesstimate
 # [§ HowlWater - osu! Frag Compilation](https://b.catgirlsare.sexy/yt5leigjcfK7.osk) | [Preview](https://youtu.be/b0fY08PSPmQ)
 ![image](https://b.catgirlsare.sexy/aF1bdUXVFuLh.png)
 
+no remade elements, however the skin was made based off memory + a few reddit screenshots so i wouldnt trust this 100%
+
 # Skins from the official valmiera(howl1079) Twitch Channel
 
-# [§ exhibit III](https://b.catgirlsare.sexy/gciIqT7VKFcI.osk) | [Preview](https://youtu.be/0BHFBkptiN0&t=297)
+# [☆ exhibit III](https://b.catgirlsare.sexy/gciIqT7VKFcI.osk) | [Preview](https://youtu.be/0BHFBkptiN0&t=297)
 ![image](https://b.catgirlsare.sexy/UxiikqpPPhpq.png)
 
-no remade elements
+no remade elements, slider colors are only innacurate due to howl using slider transparency, proper skin.ini values found in extras folder
 
