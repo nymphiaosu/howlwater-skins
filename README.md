@@ -24,24 +24,24 @@ these are skins that people claim to be howl's yet have no (confirmed) evidence 
 # Skins from the HowlWater Replays Channel
 
 # [★ howl gangsta 5x miss](https://cdn.discordapp.com/attachments/1176264621926125580/1176264858220634192/howl.osk) | [Preview](https://www.youtube.com/watch?v=GHpWsJ-XMaA)
-![image](https://b.catgirlsare.sexy/UNJ22W-WNkrz.png)
+![image](https://cdn.discordapp.com/attachments/1000537557580394639/1176655043655639161/image2.png)
 
 also used in the gimu negi hr play
 
 # [§ howl take on me](https://cdn.discordapp.com/attachments/1176264621926125580/1176267802080981063/howl.osk) | [Preview](https://www.youtube.com/watch?v=TIxqM2xwAXM)
-![image](https://b.catgirlsare.sexy/Savg9yxRmPFh.png)
+![image](https://cdn.discordapp.com/attachments/1000537557580394639/1176654946981134336/image1.png)
 
 only thing that was remade is the hp bar (which is being cropped by osu thanks pepper)
 
 # [§ howl hime hime](https://cdn.discordapp.com/attachments/1176264621926125580/1176268160173883393/howl.osk) | [Preview](https://www.youtube.com/watch?v=Hp6ZPuTWC1k)
-![screenshot756](https://b.catgirlsare.sexy/vDmHdlrdyU_f.png)
+![screenshot756](https://cdn.discordapp.com/attachments/1000537557580394639/1176654832568914071/screenshot756.png)
 
 only thing that was remade is the cursortrail and the colors, had to guesstimate the cursortrail but i'm pretty sure the sliderborder is as close to perfect as i can get it
 
 # Skins from the official howl Channel
 
 # [§ HowlWater - osu! Frag Compilation](https://b.catgirlsare.sexy/8AwNjIc-w2qt.osk) | [Preview](https://youtu.be/b0fY08PSPmQ)
-![image](https://b.catgirlsare.sexy/aF1bdUXVFuLh.png)
+![image](https://cdn.discordapp.com/attachments/1000537557580394639/1176654713215787078/vlcsnap-2023-11-20-16h52m44s115.png)
 
 no remade elements, however the skin was made based off memory + a few reddit screenshots so i wouldnt trust this 100%
 
@@ -51,7 +51,7 @@ no remade elements, however the skin was made based off memory + a few reddit sc
 the cursor is in the skin folder
 
 # [☆ warriors](https://b.catgirlsare.sexy/ageLHHQhcpvx.osk) | [Preview](https://youtu.be/Yjo94HBk04s)
-![image](https://b.catgirlsare.sexy/aI9xrxjC2LCP.png)
+![image](https://cdn.discordapp.com/attachments/1000537557580394639/1176653834924347422/vlcsnap-2023-11-21-13h11m49s096.png)
 
 # [☆ pollinosis](https://b.catgirlsare.sexy/Wr4IJeR9qLp4.osk) | No Preview Available
 ![image](https://media.discordapp.net/attachments/1086484327413596181/1176653470623867070/image.png)
@@ -60,13 +60,12 @@ also used in "dvp hr" & "test" videos
 
 # Skins from the official valmiera(howl1079) Twitch Channel
 
-# [☆ exhibit III](https://b.catgirlsare.sexy/-iScYPIkAcxE.osk) | Preview
-![image](https://b.catgirlsare.sexy/UxiikqpPPhpq.png)
+# [☆ exhibit III](https://b.catgirlsare.sexy/-iScYPIkAcxE.osk) | [Preview](https://youtu.be/WRcYYQacXh0)
+![image](https://cdn.discordapp.com/attachments/1000537557580394639/1176654011735216178/vlcsnap-2023-11-11-08h53m56s511.png)
 
 no remade elements, slider colors are only innacurate due to howl using slider transparency, proper skin.ini values found in extras folder
 
 # Skins from the osu!Gatari private server Channel
 
 # [★ howl gatari](https://b.catgirlsare.sexy/SzzaYVAXY0yj.osk) | [Preview](https://youtu.be/W_Lew0vAPbk)
-![image](https://b.catgirlsare.sexy/EcMyAfbjwLwc.png)
-
+![image](https://cdn.discordapp.com/attachments/1000537557580394639/1176654182883807322/vlcsnap-2023-11-21-12h23m39s570.png)
