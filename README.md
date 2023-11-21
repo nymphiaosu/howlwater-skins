@@ -35,7 +35,7 @@ only thing that was remade is the cursortrail and the colors, had to guesstimate
 
 # Skins from the official howl Channel
 
-# [§ HowlWater - osu! Frag Compilation](https://b.catgirlsare.sexy/rV_9d8sWK8DO.osk) | [Preview](https://youtu.be/b0fY08PSPmQ)
+# [§ HowlWater - osu! Frag Compilation](https://b.catgirlsare.sexy/yt5leigjcfK7.osk) | [Preview](https://youtu.be/b0fY08PSPmQ)
 ![image](https://b.catgirlsare.sexy/aF1bdUXVFuLh.png)
 
 # Skins from the official valmiera(howl1079) Twitch Channel
