@@ -53,8 +53,8 @@ the cursor is in the skin folder
 # [☆ warriors](https://b.catgirlsare.sexy/ageLHHQhcpvx.osk) | [Preview](https://youtu.be/Yjo94HBk04s)
 ![image](https://b.catgirlsare.sexy/aI9xrxjC2LCP.png)
 
-# [☆ pollinosis](https://b.catgirlsare.sexy/Wr4IJeR9qLp4.osk) | Preview
-![image](https://media.discordapp.net/attachments/1086484327413596181/1176596994601525318/pollinosis_thumbnail_-_Copy.png)
+# [☆ pollinosis](https://b.catgirlsare.sexy/Wr4IJeR9qLp4.osk) | No Preview Available
+![image](https://media.discordapp.net/attachments/1086484327413596181/1176652144800182374/screenshot759.png)
 
 # Skins from the official valmiera(howl1079) Twitch Channel
 
