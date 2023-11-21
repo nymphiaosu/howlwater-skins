@@ -57,3 +57,8 @@ the cursor is in the skin folder
 
 no remade elements, slider colors are only innacurate due to howl using slider transparency, proper skin.ini values found in extras folder
 
+# Skins from the osu!Gatari private server Channel
+
+# [★ howl gatari](https://b.catgirlsare.sexy/SzzaYVAXY0yj.osk) | [Preview](https://youtu.be/W_Lew0vAPbk)
+![image](https://b.catgirlsare.sexy/EcMyAfbjwLwc.png)
+
