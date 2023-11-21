@@ -1,4 +1,4 @@
-# HowlWater skins
+![image](https://github.com/nymphiaosu/howlwater-skins/assets/117044049/329a4de2-c288-4f47-b28e-afe513eb1b66)# HowlWater skins
 highly unfinished will do when i feel like it
 
 you might notice that most of the skins here are basically repeats with little to no differences to each other, thats a howl thing dont blame me 🤷
@@ -44,6 +44,11 @@ only thing that was remade is the cursortrail and the colors, had to guesstimate
 ![image](https://b.catgirlsare.sexy/aF1bdUXVFuLh.png)
 
 no remade elements, however the skin was made based off memory + a few reddit screenshots so i wouldnt trust this 100%
+
+# [bass slut 679pp](https://cdn.discordapp.com/attachments/973579452330147860/1053380767004229713/kamui.osk) | [Preview](https://www.youtube.com/watch?v=aUrTP416Cw4)
+![image](https://github.com/nymphiaosu/howlwater-skins/assets/117044049/f2f368b3-1400-4901-a69f-259726fc55e5)
+
+the cursor is in the skin folder
 
 # Skins from the official valmiera(howl1079) Twitch Channel
 
