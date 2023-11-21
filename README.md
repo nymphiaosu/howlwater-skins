@@ -53,9 +53,12 @@ the cursor is in the skin folder
 # [☆ warriors](https://b.catgirlsare.sexy/ageLHHQhcpvx.osk) | [Preview](https://youtu.be/Yjo94HBk04s)
 ![image](https://b.catgirlsare.sexy/aI9xrxjC2LCP.png)
 
+# [☆ pollinosis](https://b.catgirlsare.sexy/Wr4IJeR9qLp4.osk) | [Preview](https://youtu.be/Yjo94HBk04s)
+![image](https://media.discordapp.net/attachments/1086484327413596181/1176596994601525318/pollinosis_thumbnail_-_Copy.png)
+
 # Skins from the official valmiera(howl1079) Twitch Channel
 
-# [☆ exhibit III](https://b.catgirlsare.sexy/-iScYPIkAcxE.osk) | [Preview](https://youtu.be/WRcYYQacXh0)
+# [☆ exhibit III](https://b.catgirlsare.sexy/-iScYPIkAcxE.osk) | Preview
 ![image](https://b.catgirlsare.sexy/UxiikqpPPhpq.png)
 
 no remade elements, slider colors are only innacurate due to howl using slider transparency, proper skin.ini values found in extras folder
