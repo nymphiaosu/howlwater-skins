@@ -1,4 +1,4 @@
-![image](https://github.com/nymphiaosu/howlwater-skins/assets/117044049/329a4de2-c288-4f47-b28e-afe513eb1b66)# HowlWater skins
+# HowlWater skins
 highly unfinished will do when i feel like it
 
 you might notice that most of the skins here are basically repeats with little to no differences to each other, thats a howl thing dont blame me 🤷
