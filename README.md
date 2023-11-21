@@ -50,6 +50,9 @@ no remade elements, however the skin was made based off memory + a few reddit sc
 
 the cursor is in the skin folder
 
+# [☆ warriors](https://b.catgirlsare.sexy/ageLHHQhcpvx.osk) | [Preview](https://youtu.be/Yjo94HBk04s)
+![image](https://b.catgirlsare.sexy/aI9xrxjC2LCP.png)
+
 # Skins from the official valmiera(howl1079) Twitch Channel
 
 # [☆ exhibit III](https://b.catgirlsare.sexy/-iScYPIkAcxE.osk) | [Preview](https://youtu.be/WRcYYQacXh0)
