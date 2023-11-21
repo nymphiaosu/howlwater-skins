@@ -52,7 +52,7 @@ the cursor is in the skin folder
 
 # Skins from the official valmiera(howl1079) Twitch Channel
 
-# [☆ exhibit III](https://b.catgirlsare.sexy/-iScYPIkAcxE.osk) | [Preview](https://youtu.be/0BHFBkptiN0&t=297)
+# [☆ exhibit III](https://b.catgirlsare.sexy/-iScYPIkAcxE.osk) | [Preview](https://youtu.be/WRcYYQacXh0)
 ![image](https://b.catgirlsare.sexy/UxiikqpPPhpq.png)
 
 no remade elements, slider colors are only innacurate due to howl using slider transparency, proper skin.ini values found in extras folder
