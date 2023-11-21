@@ -54,7 +54,7 @@ the cursor is in the skin folder
 ![image](https://b.catgirlsare.sexy/aI9xrxjC2LCP.png)
 
 # [☆ pollinosis](https://b.catgirlsare.sexy/Wr4IJeR9qLp4.osk) | No Preview Available
-![image](https://media.discordapp.net/attachments/1086484327413596181/1176653238481715210/screenshot760.png)
+![image](https://media.discordapp.net/attachments/1086484327413596181/1176653470623867070/image.png)
 
 # Skins from the official valmiera(howl1079) Twitch Channel
 
